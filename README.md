@@ -1,2 +1,2 @@
-# learn-git
-Augmentis Young Professional
+# Chayanit Kaensan learn-git
+*Augmentis Young Professional*
